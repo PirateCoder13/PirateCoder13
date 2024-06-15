@@ -6,7 +6,8 @@
 
 ## 🚀 Minhas Habilidades
 
-- **Linguagens:** HTML, CSS, PHP, C, JavaScript (iniciando), Python (iniciando)
+- **Linguagens:** HTML, CSS, PHP, C
+- **Iniciando** JavaScript, Python
 - **Banco de Dados:** phpMyAdmin, MySQL
 - **Ferramentas:** Git, VS Code, Xampp
 
