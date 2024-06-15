@@ -6,9 +6,9 @@
 
 ## 🚀 Minhas Habilidades
 
-- **Linguagens:** JavaScript, Python, Java
-- **Frameworks e Tecnologias:** React, Node.js, Django
-- **Ferramentas:** Git, Docker, VS Code
+- **Linguagens:** HTML, CSS, PHP, C, JavaScript (iniciando), Python (iniciando)
+- **Banco de Dados:** phpMyAdmin, MySQL
+- **Ferramentas:** Git, VS Code, Xampp
 
 ---
 
@@ -22,12 +22,6 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratecoder13&layout=compact&langs_count=16&theme=transparent"/>
 </div>
-
----
-
-## Sobre Mim
-
-Sou um desenvolvedor com uma forte paixão por aprender e compartilhar conhecimento. Tenho experiência em desenvolvimento web e mobile, e estou sempre em busca de novos desafios.
 
 ---
 
