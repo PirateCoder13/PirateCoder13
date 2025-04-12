@@ -8,7 +8,7 @@
 $profile = [
     "pronouns" => "He/Him",
     "technologies" => [
-        "code" => ["HTML", "CSS", "PHP", "C", "C++", "MySQL"],
+        "code" => ["HTML", "CSS", "PHP", "C", "C++", "MySQL, "Java""],
         "js" => ["JavaScript"], // Incluído como iniciando
         "css" => ["Bootstrap"],
         "tools" => ["Git", "VS Code", "Xampp", "MySQL Workbench", "Wireshark"],
