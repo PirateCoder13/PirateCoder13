@@ -2,8 +2,7 @@
 
 📚 Estou cursando Análise e Desenvolvimento de Sistemas
 
-### <img src="https://cdn3.emoji.gg/emojis/7099_Boom.gif" width="50"> Um pouco mais sobre mim...<img src="https://cdn3.emoji.gg/emojis/69955-rocket-animated.gif" width="30">
-
+### <img src="https://cdn3.emoji.gg/emojis/7099_Boom.gif" width="50"> Um pouco mais sobre mim...
 ```php
 <?php
 $profile = [
