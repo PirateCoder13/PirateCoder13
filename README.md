@@ -1,42 +1,22 @@
-# <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="30"> Hello, Eu sou o Pirate !!
+# Olá, eu sou o João Gualberto (Pirate) 👋
 
-💼 **Desenvolvedor Júnior na Ecommerce Objetivo**
+Sou desenvolvedor júnior na Ecommerce Objetivo e formado em Análise e Desenvolvimento de Sistemas pela Universidade Tuiuti do Paraná. Moro em Curitiba, PR.
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**
+## O que eu desenvolvo
 
-## 🚀 Atualmente
+- Aplicações web e dashboards para CRM, SEO e operações de e-commerce.
+- Automações com n8n para integrar ferramentas de trabalho e enviar lembretes de reuniões.
+- Soluções com agentes de IA, bancos de dados e deploy de aplicações em VPS.
 
-- Desenvolvedor Júnior na **Ecommerce Objetivo**, criando automações e integrações para e-commerce.
-- Construindo fluxos de automação e dashboards com **n8n**, **Supabase** e **IA**.
-- Explorando desenvolvimento rápido de produtos com **Lovable** e **VS Code**.
+## Tecnologias
 
-## 🛠️ Tecnologias
+- **Web e dados:** TypeScript, React, Next.js, Node.js, Python, PHP, MySQL e Supabase.
+- **Automação e infraestrutura:** n8n, Docker, Coolify, Linux, Proxmox e Git.
+- **Mobile:** Flutter e Dart.
 
-**Automação & IA:** n8n • Supabase • Lovable • IA / LLMs  
-**Frontend:** HTML • CSS • Bootstrap • JavaScript  
-**Backend:** PHP • MySQL  
-**Low Level:** C • C++  
-**Mobile:** Flutter • Dart • Kotlin  
-**Ferramentas:** Git • VS Code • Android Studio • Xampp • MySQL Workbench • Wireshark  
-**Sistemas:** Windows • Android • Kali Linux • Ubuntu • Debian • Linux Mint • Proxmox
+## Projetos públicos
 
-## Um pouco mais sobre mim...<img src="https://cdn3.emoji.gg/emojis/7099_Boom.gif" width="50"> 
-```php
-<?php
-$profile = [
-    "name" => "João Gualberto",
-    "pronouns" => "He/Him",
-    "role" => "Dev Júnior na Ecommerce Objetivo -  Formado em ADS",
-    "technologies" => [
-        "automation" => ["n8n", "Supabase", "Lovable", "IA / LLMs"],
-        "frontend"   => ["HTML", "CSS", "Bootstrap", "JavaScript"],
-        "backend"    => ["PHP", "MySQL"],
-        "lowLevel"   => ["C", "C++"],
-        "mobile"     => ["Flutter", "Dart", "Kotlin"],
-        "tools"      => ["Git", "VS Code", "Android Studio", "Xampp", "MySQL Workbench", "Wireshark"],
-        "systems"    => ["Windows", "Android", "Kali Linux", "Ubuntu", "Debian", "Linux Mint", "Proxmox"],
-    ],
-    "funFact" => "Adoro aprender novas tecnologias, explorar ferramentas e jogos são meu vício.",
-];
-?>
-```
+- [Elvira](https://github.com/PirateCoder13/Elvira) — TCC em Flutter/Dart. Um launcher Android pensado para tornar o celular mais acessível a pessoas idosas.
+- [Turismo Acessível](https://github.com/PirateCoder13/Turismo-Acessivel-UTP-IHC) — projeto acadêmico de Interação Humano-Computador.
+
+[LinkedIn](https://www.linkedin.com/in/joaogualberto113350/) · [Repositórios públicos](https://github.com/PirateCoder13?tab=repositories)
